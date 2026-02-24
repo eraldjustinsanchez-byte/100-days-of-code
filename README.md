@@ -1,6 +1,6 @@
 # 100 Days of Code – Backend Engineering Journey
 
-## 📖 Overview
+## Overview
 
 This repository documents my **100-day backend engineering journey**.
 
