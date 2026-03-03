@@ -5,7 +5,7 @@ while True:
     num2 = float(input("Enter second number: "))
     operator = input("Enter operator (+, -, *, /): ")
 
-    if operator == "+":git rm -r folder_name
+    if operator == "+":
         result = num1 + num2
     elif operator == "-":
         result = num1 - num2
